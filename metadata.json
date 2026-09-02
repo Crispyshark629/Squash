@@ -1,0 +1,8 @@
+{
+  "name": "PuffyMesh Interactive Canvas",
+  "description": "Interactive WebGL canvas featuring 3D mesh inflation model and real-time elastic physics deformation driven by MediaPipe hand pinch gestures and direct mouse/touch drags.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
