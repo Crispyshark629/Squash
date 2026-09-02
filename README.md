@@ -6,8 +6,8 @@ An interactive 3D WebGL experience featuring real-time mesh inflation, tactile d
 
 <table>
   <tr>
-    <td><img width="100%" alt="image" src="https://github.com/user-attachments/assets/b9904522-0502-4e52-888b-bf701dad7081" /></td>
-    <td><img width="100%" alt="image" src="https://github.com/user-attachments/assets/e7146900-b064-4bf2-8c2d-bfb3ec233452" /></td>
+    <td align="center"><img height="300" alt="image" src="https://github.com/user-attachments/assets/b9904522-0502-4e52-888b-bf701dad7081?raw=true" /></td>
+    <td align="center"><img height="300" alt="image" src="https://github.com/user-attachments/assets/e7146900-b064-4bf2-8c2d-bfb3ec233452?raw=true" /></td>
   </tr>
 </table>
 
