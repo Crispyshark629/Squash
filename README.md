@@ -3,7 +3,7 @@
 An interactive 3D WebGL experience featuring real-time mesh inflation, tactile deformation physics, and dual-mode interaction (Sticker Mode & Slime Mode) driven by MediaPipe AI hand tracking and direct mouse/touch controls.
 
 ---
-<img width="49%" alt="image" src="https://github.com/user-attachments/assets/edab6cda-4752-435f-a391-a51ec13782a3" /><img width="49%" alt="image" src="https://github.com/user-attachments/assets/d01b09c9-8c91-431d-8379-a4ef8ad60ba7" />
+<img width="1184" height="1050" alt="image" src="https://github.com/user-attachments/assets/b9904522-0502-4e52-888b-bf701dad7081" /><img width="1184" height="1150" alt="image" src="https://github.com/user-attachments/assets/e7146900-b064-4bf2-8c2d-bfb3ec233452" />
 ---
 
 ## ✨ Features
